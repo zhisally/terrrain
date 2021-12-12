@@ -1,0 +1,16 @@
+debug/mainwindow.o
+debug/main.o
+debug/glwidget.o
+debug/openglshape.o
+debug/resourceloader.o
+debug/errorchecker.o
+debug/terrain.o
+debug/VBO.o
+debug/VBOAttribMarker.o
+debug/VAO.o
+debug/IBO.o
+debug/GLDebug.o
+debug/glew.o
+debug/qrc_shaders.o
+debug/moc_mainwindow.o
+debug/moc_glwidget.o

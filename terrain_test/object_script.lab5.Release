@@ -1,0 +1,16 @@
+release/mainwindow.o
+release/main.o
+release/glwidget.o
+release/openglshape.o
+release/resourceloader.o
+release/errorchecker.o
+release/terrain.o
+release/VBO.o
+release/VBOAttribMarker.o
+release/VAO.o
+release/IBO.o
+release/GLDebug.o
+release/glew.o
+release/qrc_shaders.o
+release/moc_mainwindow.o
+release/moc_glwidget.o
